@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04 Verify 2nd Record in Response</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afd1cc04-2b23-4271-8c50-e4adc6871c83</testCaseGuid>
+</TestCaseEntity>
