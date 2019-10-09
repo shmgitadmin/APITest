@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01 Verify Eelements Count Resource List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aad10146-564e-4ee5-ad33-a79a9a8cae7f</testCaseGuid>
+</TestCaseEntity>

@@ -13,26 +13,25 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-response = WS.sendRequest(findTestObject('Object Repository/API_OR/Users List Page_01'))
+response = WS.sendRequest(findTestObject('Object Repository/API_OR/Resource List Page_01'))
 
-'Verifying Id = 3'
+'Verify 1st resource in Response E.g id = 2'
+WS.verifyElementPropertyValue(response,'data[1].id', 2)
 
-WS.verifyElementPropertyValue(response, 'data[2].id', 3)
 
-'Verifying Email = emma.wong@reqres.in'
+'Verify 1st resource in Response E.g name = fuchsia rose'
+WS.verifyElementPropertyValue(response,'data[1].name', 'fuchsia rose')
 
-WS.verifyElementPropertyValue(response, 'data[2].email', 'emma.wong@reqres.in')
 
-'Verify first_name =  Emma'
+'Verify 1st resource in Response E.g year = 2001'
+WS.verifyElementPropertyValue(response,'data[1].year', 2001)
 
-WS.verifyElementPropertyValue(response, 'data[2].first_name', 'Emma')
 
-'Verify last_name: Wong'
+'Verify 1st resource in Response E.g color = #C74375'
+WS.verifyElementPropertyValue(response,'data[1].color', '#C74375')
 
-WS.verifyElementPropertyValue(response, 'data[2].last_name', 'Wong')
 
-'Verify avatar = https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg'
-
-WS.verifyElementPropertyValue(response, 'data[2].avatar', 'https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg')
+'Verify 1st resource in Response E.g pantone_value = 17-2031'
+WS.verifyElementPropertyValue(response,'data[1].pantone_value', '17-2031')
 
 
