@@ -14,30 +14,36 @@
       <guid>ce937615-3758-430b-9898-f96e73e13de0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Rest API/Get User List Test Cases/TC_01 Verify Response Code</testCaseId>
+      <testCaseId>Test Cases/Rest API/Get_User Test Cases/TC_01 Verify Response Code</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>a63941a8-0630-408a-bf22-c1170197fc7a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Rest API/Get User List Test Cases/TC_02 Verify Eelements Count User List</testCaseId>
+      <testCaseId>Test Cases/Rest API/Get_User Test Cases/TC_02 Verify Eelements Count User List</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>ff5ef9f0-d378-4121-bf76-eef13545ef0b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Rest API/Get User List Test Cases/TC_03 Verify 1st Record in Response</testCaseId>
+      <testCaseId>Test Cases/Rest API/Get_User Test Cases/TC_03 Verify 1st Record in Response</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>cd144739-e4a8-47a4-8e32-7189795a5b4c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Rest API/Get User List Test Cases/TC_04 Verify 2nd Record in Response</testCaseId>
+      <testCaseId>Test Cases/Rest API/Get_User Test Cases/TC_04 Verify 2nd Record in Response</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>fd12ba28-a6e0-459d-a438-400e03f74d32</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Rest API/Get User List Test Cases/TC_05 Verify 3rd Record in Response</testCaseId>
+      <testCaseId>Test Cases/Rest API/Get_User Test Cases/TC_05 Verify 3rd Record in Response</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9deee065-3134-4f85-91ce-407f7d3a34f1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Rest API/Get_User Test Cases/TC_06 Verify User Not Found Error</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

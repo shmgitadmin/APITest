@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06 Verify Single Resource Returns Correct Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15c4ed1b-de6e-4ac1-9133-58bdcc37bf29</testCaseGuid>
+</TestCaseEntity>

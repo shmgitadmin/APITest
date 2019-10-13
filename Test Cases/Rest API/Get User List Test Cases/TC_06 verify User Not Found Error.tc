@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_06 verify User Not Found Error</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>3848e00b-5a33-454d-aebb-4448cbdd4fce</testCaseGuid>
-</TestCaseEntity>

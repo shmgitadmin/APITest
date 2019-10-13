@@ -1331,10 +1331,7 @@
   <message>End Test Suite : Test Suites/API Test Cases/Get Test Cases/Get User TC</message>
   <nestedLevel>0</nestedLevel>
 </record>
-</log>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
-<log>
 <record>
   <date>2019-10-08T16:56:06</date>
   <millis>1570539366815</millis>
